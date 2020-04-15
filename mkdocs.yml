@@ -1,0 +1,5 @@
+site_name: SpringMVC Guide
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
