@@ -1,5 +1,10 @@
-site_name: SpringMVC Guide
+site_name: Spring MVC Guide
 nav:
     - Home: index.md
     - About: about.md
-theme: readthedocs
+    - 'Introduction':
+        - 'What is Spring MVC?': intro/what-is-spring-mvc.md
+        - 'Milestones in Spring': intro/milestones-in-spring.md
+        - 'Architecture': intro/architecture.md
+        - 'Vocabulary': intro/vocabulary.md
+theme: material
