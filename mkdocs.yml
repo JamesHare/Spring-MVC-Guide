@@ -7,4 +7,11 @@ nav:
         - 'Milestones in Spring': intro/milestones-in-spring.md
         - 'Architecture': intro/architecture.md
         - 'Vocabulary': intro/vocabulary.md
+    - 'Lesson 1':
+        - 'Intro to Project': something.md
+        - 'Tools and Setup': something.md
+        - 'Configuration Steps': something.md
+        - 'Creating Your First Controller': something.md
+        - 'Creating Your First JSP': something.md
+        - 'Running the Application': something.md
 theme: material
